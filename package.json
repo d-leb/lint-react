@@ -1,6 +1,6 @@
 {
   "name": "@d-leb/lint-react",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A library for linting TypeScript and JavaScript ReactJS projects",
   "author": "David LeBlanc <github@david-leblanc.com>",
   "license": "MIT",
